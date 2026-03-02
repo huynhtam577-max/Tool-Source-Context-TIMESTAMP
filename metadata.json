@@ -1,0 +1,5 @@
+{
+  "name": "SRT Context Aligner",
+  "description": "Aligns Source Context text with SRT subtitles to generate a timeline.",
+  "requestFramePermissions": []
+}
